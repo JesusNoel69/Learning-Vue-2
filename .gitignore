@@ -1,0 +1,37 @@
+# Build Folders (The compiled output)
+Back-end/bin/
+Back-end/obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code
+Back-end/.vscode/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Node.js related
+node_modules/
+
+# Logs
+*.log
+
+# Local History for Visual Studio
+.vs/
+
+# ASP.NET Core
+# appsettings.json
+# appsettings.Development.json
+
+Front-End/.DS_Store
+Front-End/node_modules
+Front-End/dist
